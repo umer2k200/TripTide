@@ -1,0 +1,5 @@
+Things that you need to install are: 
+
+npm install
+npm i react-icons
+npm i aos --save
