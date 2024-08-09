@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+Things that you need to install are: 
+
+npm install
+npm i react-icons
+npm i aos --save# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
